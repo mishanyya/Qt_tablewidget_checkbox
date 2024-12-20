@@ -19,12 +19,12 @@
      <rect>
       <x>60</x>
       <y>220</y>
-      <width>221</width>
+      <width>101</width>
       <height>25</height>
      </rect>
     </property>
     <property name="text">
-     <string>Выбрать отмеченные пункты</string>
+     <string>Выбрать</string>
     </property>
    </widget>
    <widget class="QTableWidget" name="tableWidget">
@@ -63,9 +63,9 @@
    <widget class="QTextBrowser" name="textBrowser">
     <property name="geometry">
      <rect>
-      <x>320</x>
+      <x>180</x>
       <y>210</y>
-      <width>221</width>
+      <width>401</width>
       <height>141</height>
      </rect>
     </property>
